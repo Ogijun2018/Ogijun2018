@@ -1,5 +1,26 @@
-### Hi there 👋
-This is Jun Ogino's github page.
+## 👋 Jun Ogino
+
+### 🔭 I’m currently working on ...
+電気通信大学 大学院 情報理工学研究科 情報学専攻 修士1年
+[橋山研究室](http://www2.media.is.uec.ac.jp/)に所属しています。
+
+研究室では人間の集中力と運動の関係を調査しています。
+
+### 🌱 I’m currently learning ...
+Vue.js, Ruby on Rails, Swift, React Native, etc...
+
+### 💪 My hobbies are ...
+**🏃‍♂️ Track and Field**: [陸上競技部](https://uectf.jp/)に所属しています。十種競技をやっています。
+
+**🏋️‍♂️ Training**: 陸上の練習の一貫です。ベンチプレス105kgとかパワークリーン100kgとか。
+
+**😍 Anime**: プリパラとかアイカツとかが好き。生きる糧です。
+
+**🕺 Dance**: lockをちょっとだけかじってました。
+
+### 📎 Link
+**[Portfolio](https://junogino.work)　[Twitter](https://twitter.com/juginon)　[Qiita](https://qiita.com/juginon)　[Blog](https://ogijunchang.hatenablog.com/)**
+
 <!--
 **Ogijun2018/Ogijun2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
