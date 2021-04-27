@@ -10,7 +10,7 @@
 Vue.js, Ruby on Rails, Swift, React Native, etc...
 
 ### 💪 My hobbies are ...
-**🏃‍♂️ Track and Field**: [陸上競技部](https://uectf.jp/)に所属しています。十種競技をやっています。a
+**🏃‍♂️ Track and Field**: [陸上競技部](https://uectf.jp/)に所属しています。十種競技をやっています。
 
 **🏋️‍♂️ Training**: 陸上の練習の一貫です。ベンチプレス105kgとかパワークリーン100kgとか。
 
