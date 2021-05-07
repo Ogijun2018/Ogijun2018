@@ -4,7 +4,7 @@
 電気通信大学 大学院 情報理工学研究科 情報学専攻 修士2年
 [橋山研究室](http://www2.media.is.uec.ac.jp/)に所属しています。
 
-研究室では人間の集中力と運動の関係を調査しています。
+研究室では運動と認知の関係を調査しています。
 
 ### 🌱 I’m currently learning ...
 Vue.js, Ruby on Rails, Swift, React Native, etc...
