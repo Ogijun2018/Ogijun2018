@@ -1,18 +1,20 @@
 ![header](https://github.com/Ogijun2018/Ogijun2018/blob/main/header.png?raw=true)
 
-### 🔭 I’m currently working on ...
-電気通信大学 大学院 情報理工学研究科 情報学専攻 修士2年
-[橋山研究室](http://www2.media.is.uec.ac.jp/)に所属しています。
+### 🎓 My career ...
 
-研究室では運動と認知の関係を調査しています。
+2020/03 電気通信大学 (The University of Electro-Communications) 情報理工学域 I類 メディア情報学プログラム 卒業
+
+2022/03 電気通信大学大学院 (The University of Electro-Communications Graduate School) 情報学専攻 卒業
+
+2022/04 Joined [ZOZO, Inc.](https://corp.zozo.com/) 
 
 ### 🌱 I’m currently learning ...
-Vue.js, Ruby on Rails, Swift, React Native, etc...
+Swift / React Native / Ruby on Rails / etc...
 
 ### 💪 My hobbies are ...
-**🏃‍♂️ Track and Field**: [陸上競技部](https://uectf.jp/)に所属しています。十種競技をやっています。
+**🏃‍♂️ Track and Field**: [Setech AC]所属 大学では十種競技をやっていました。
 
-**🏋️‍♂️ Training**: 陸上の練習の一貫です。ベンチプレス105kgとかパワークリーン100kgとか。
+**🏋️‍♂️ Training**: 陸上の練習の一貫です。ベンチプレス105kgとかパワークリーン105kgとか。
 
 **😍 Anime**: プリパラとかアイカツとかが好き。生きる糧です。
 
