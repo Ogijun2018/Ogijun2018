@@ -16,12 +16,12 @@ Swift / React Native / Ruby on Rails / etc...
 
 **🏋️‍♂️ Training**: 陸上の練習の一貫です。ベンチプレス105kgとかパワークリーン105kgとか。
 
-**😍 Anime**: プリパラとかアイカツとかが好き。生きる糧です。
+**😍 Anime**: プリパラとかアイカツとかウマ娘が好き。生きる糧です。
 
 **🕺 Dance**: lockをちょっとだけかじってました。
 
 ### 📎 Link
-**[Portfolio](https://junogino.work)　[Twitter](https://twitter.com/juginon)　[Qiita](https://qiita.com/juginon)　[Blog](https://ogijunchang.hatenablog.com/)**
+**[Portfolio](https://junogino.work)　[Twitter](https://twitter.com/juginon)　[Qiita](https://qiita.com/juginon)　[Blog](https://ogijunchang.hatenablog.com/) [zenn](https://zenn.dev/juginon)**
 
 <!--
 **Ogijun2018/Ogijun2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
