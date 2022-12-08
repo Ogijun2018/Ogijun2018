@@ -21,7 +21,7 @@ Swift / React Native / Ruby on Rails / etc...
 **🕺 Dance**: lockをちょっとだけかじってました。
 
 ### 📎 Link
-**[Portfolio](https://junogino.work)　[Twitter](https://twitter.com/juginon)　[Qiita](https://qiita.com/juginon)　[Blog](https://ogijunchang.hatenablog.com/) [zenn](https://zenn.dev/juginon)**
+**[Portfolio](https://junogino.work)　[Twitter](https://twitter.com/juginon)　[zenn](https://zenn.dev/juginon)　[Qiita](https://qiita.com/juginon)　[Blog](https://ogijunchang.hatenablog.com/)**
 
 <!--
 **Ogijun2018/Ogijun2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
