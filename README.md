@@ -12,13 +12,9 @@
 Swift / React Native / Ruby on Rails / etc...
 
 ### 💪 My hobbies are ...
-**🏃‍♂️ Track and Field**: Setech AC所属 大学では十種競技をやっていました。
+**🏃‍♂️ Track and Field**: I belong to Setech AC. Specialize in high jump (PB197cm).
 
-**🏋️‍♂️ Training**: 陸上の練習の一貫です。ベンチプレス105kgとかパワークリーン105kgとか。
-
-**😍 Anime**: プリパラとかアイカツとかウマ娘が好き。生きる糧です。
-
-**🕺 Dance**: lockをちょっとだけかじってました。
+**😍 Anime/Game**: Zenless Zone Zero / Genshin Impact
 
 ### 📎 Link
 **[Portfolio](https://junogino.work)　[Twitter](https://twitter.com/juginon)　[zenn](https://zenn.dev/juginon)　[Qiita](https://qiita.com/juginon)　[Blog](https://ogijunchang.hatenablog.com/)**
