@@ -12,7 +12,7 @@
 Swift / React Native / Ruby on Rails / etc...
 
 ### 💪 My hobbies are ...
-**🏃‍♂️ Track and Field**: I belong to Setech AC. Specialize in high jump (PB197cm).
+**🏃‍♂️ Track and Field**: I belong to Setech AC. Specialize in high jump (PB198cm).
 
 **😍 Anime/Game**: Zenless Zone Zero / Genshin Impact
 
